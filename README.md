@@ -6,7 +6,7 @@
 Blog : https://neck392.tistory.com/
 <br><br>
 
-## 보안 관련 프로젝트
+## Security-related Projects
 <ul>
   <li>LDDC(Live Disk Data Collector) [TEAM: Digital Forensic Study]</li>
     <ul>
@@ -31,9 +31,7 @@ Blog : https://neck392.tistory.com/
         <li>Scenario Report: https://neck392.tistory.com/37</li>
       </ul>
 </ul>
-<br>
 
-## 수상
+## Awards
 제 14회 교내 IT 경진대회 동상 (2023)<br>
 KITRI WHS(Pre-BoB) 2기 우수 프로젝트 (2024)<br>
-<br><br>
