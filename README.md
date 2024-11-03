@@ -6,7 +6,7 @@
 Blog : https://neck392.tistory.com/
 <br><br>
 
-## Security-related Projects
+## Some Security-related Projects
 <ul>
   <li>LDDC(Live Disk Data Collector) [TEAM: Digital Forensic Study]</li>
     <ul>
