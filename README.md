@@ -16,6 +16,12 @@ Blog : https://neck392.tistory.com/
     <li>Secure_Coding [WHS]</li>
       <ul>
         <li>Dynamic Website coding using secure coding techniques</li>
+        <ul>
+          <li>Language : python</li>
+          <li>Front-end : streamlit</li>
+          <li>Back-end : FastApi</li>
+          <li>Database : SQLite3</li>
+        </ul>
         <li>https://github.com/neck392/Secure_Coding</li>
       </ul><br>
     <li>카카오톡 모바일 및 윈도우 아티팩트 비교 분석 [TEAM: 우체통 열어보기]</li>
