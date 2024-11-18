@@ -42,7 +42,7 @@ Blog : https://neck392.tistory.com/
 <ul>
   <li>Domestic Conference</li>
     <ul>
-      <li>Min-Seo Kim, Soo-Hyun Jo, and Jun-Beom Kim, "A Study on the Decryption of KakaoTalk Database through Memory Forensics in Windows Environment," Proceedings of the Korea Information Security Conference, 2024. 11.</li>
+      <li>Minseo Kim, Soohyun Jo, and Junbeom Kim, "A Study on the Decryption of KakaoTalk Database through Memory Forensics in Windows Environment," Proceedings of the Korea Information Security Conference, 2024. 11.</li>
     </ul>
 </ul>
 
