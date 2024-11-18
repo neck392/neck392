@@ -8,39 +8,42 @@ Blog : https://neck392.tistory.com/
 
 ## Some Security-related Projects
 <ul>
-  <li>LDDC(Live Disk Data Collector) [TEAM: Digital Forensic Study]</li>
+  <li><b>LDDC(Live Disk Data Collector) [TEAM: Digital Forensic Study]</b></li>
     <ul>
       <li>침해 사고 발생 컴퓨터에 대한 휘발성 / 비휘발성 데이터 수집 자동화 IR 스크립트</li>
       <li>https://github.com/Digital-Forensic-Study/LDDC_Batch_script</li>
     </ul><br>
-    <li>Secure_Coding [WHS]</li>
-      <ul>
-        <li>Dynamic Website coding using secure coding techniques</li>
+  <li><b>Secure_Coding [WHS]</b></li>
+    <ul>
+      <li>Dynamic Website coding using secure coding techniques</li>
         <ul>
           <li>Language : python</li>
           <li>Front-end : streamlit</li>
           <li>Back-end : FastApi</li>
           <li>Database : SQLite3</li>
         </ul>
-        <li>https://github.com/neck392/Secure_Coding</li>
-      </ul><br>
-    <li>카카오톡 모바일 및 윈도우 아티팩트 비교 분석 [TEAM: 우체통 열어보기]</li>
-      <ul>
-        <li>WHS 2기</li>
-      </ul><br>
-    <li>악성 코드 분석</li>
-      <ul>
-        <li>MITRE ATT&CK에서 악의적 행위 분석 및 악성 코드 연구</li>
-        <li>[T1547]: https://github.com/neck392/T1547_Malware</li>
-        <li>[T1221]: https://github.com/neck392/T1221_Malware</li>
-        <li>[T1059001]: https://github.com/neck392/T1059001_Malware</li>
-        <li>Scenario Report: https://neck392.tistory.com/37</li>
-      </ul>
+      <li>https://github.com/neck392/Secure_Coding</li>
+    </ul><br>
+  <li><b>카카오톡 모바일 및 윈도우 아티팩트 비교 분석 [TEAM: 우체통 열어보기]</b></li>
+    <ul>
+      <li>WHS 2기</li>
+    </ul><br>
+  <li><b>악성 코드 분석</b></li>
+    <ul>
+      <li>MITRE ATT&CK에서 악의적 행위 분석 및 악성 코드 연구</li>
+      <li>[T1547]: https://github.com/neck392/T1547_Malware</li>
+      <li>[T1221]: https://github.com/neck392/T1221_Malware</li>
+      <li>[T1059001]: https://github.com/neck392/T1059001_Malware</li>
+      <li>Scenario Report: https://neck392.tistory.com/37</li>
+    </ul>
 </ul>
 
 ## Publications
 <ul>
   <li>Domestic Conference</li>
+    <ul>
+      <li>Min-Seo Kim, Soo-Hyun Jo, and Jun-Beom Kim, "A Study on the Decryption of KakaoTalk Database through Memory Forensics in Windows Environment," Proceedings of the Korea Information Security Conference, 2024. 11.</li>
+    </ul>
 </ul>
 
 ## Awards
