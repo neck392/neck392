@@ -6,6 +6,14 @@
 Blog : https://neck392.tistory.com/
 <br><br>
 
+## Publications
+<ul>
+  <li>Domestic Conference</li>
+    <ul>
+      <li>Minseo Kim, Soohyun Jo, and Junbeom Kim, "A Study on the Decryption of KakaoTalk Database through Memory Forensics in Windows Environment," Proceedings of Korea Institute of Information Security & Cryptology Conference, Konjiam Resort, 2024. 11.</li>
+    </ul>
+</ul>
+
 ## Some Security-related Projects
 <ul>
   <li><b>LDDC(Live Disk Data Collector) [TEAM: Digital Forensic Study]</b></li>
@@ -35,14 +43,6 @@ Blog : https://neck392.tistory.com/
       <li>[T1221]: https://github.com/neck392/T1221_Malware</li>
       <li>[T1059001]: https://github.com/neck392/T1059001_Malware</li>
       <li>Scenario Report: https://neck392.tistory.com/37</li>
-    </ul>
-</ul>
-
-## Publications
-<ul>
-  <li>Domestic Conference</li>
-    <ul>
-      <li>Minseo Kim, Soohyun Jo, and Junbeom Kim, "A Study on the Decryption of KakaoTalk Database through Memory Forensics in Windows Environment," Proceedings of Korea Institute of Information Security & Cryptology Conference, Konjiam Resort, 2024. 11.</li>
     </ul>
 </ul>
 
