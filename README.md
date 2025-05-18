@@ -47,8 +47,11 @@ Blog : https://neck392.tistory.com/
   <li><b>Volatility plugin 개발 [TEAM: Digital Forensic Study] </b></li>
   <ul>
       <li>볼라틸리티3 사용자의 편의성 개선 플러그인 개발</li>
-      <li>findpid.py</li>
-      <li>mmname.py</li>
+        <ul>
+          <li>findpid.py</li>
+          <li>mmname.py</li>
+        </ul>
+      <li>https://github.com/Digital-Forensic-Study/Volatility3-Plugin-Development</li>
     </ul><br>
 </ul>
 
