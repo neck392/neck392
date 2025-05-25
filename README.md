@@ -32,10 +32,6 @@ Blog : https://neck392.tistory.com/
         </ul>
       <li>https://github.com/neck392/Secure_Coding</li>
     </ul><br>
-  <li><b>카카오톡 모바일 및 윈도우 아티팩트 비교 분석 [TEAM: 우체통 열어보기]</b></li>
-    <ul>
-      <li>WHS 2기</li>
-    </ul><br>
   <li><b>악성 코드 분석</b></li>
     <ul>
       <li>MITRE ATT&CK에서 악의적 행위 분석 및 악성 코드 연구</li>
@@ -43,6 +39,10 @@ Blog : https://neck392.tistory.com/
       <li>[T1221]: https://github.com/neck392/T1221_Malware</li>
       <li>[T1059001]: https://github.com/neck392/T1059001_Malware</li>
       <li>Scenario Report: https://neck392.tistory.com/37</li>
+    </ul><br>
+  <li><b>카카오톡 모바일 및 윈도우 아티팩트 비교 분석 [TEAM: 우체통 열어보기]</b></li>
+    <ul>
+      <li>WHS 2기</li>
     </ul><br>
   <li><b>Volatility plugin 개발 [TEAM: Digital Forensic Study] </b></li>
   <ul>
@@ -52,6 +52,11 @@ Blog : https://neck392.tistory.com/
           <li>mmname.py</li>
         </ul>
       <li>https://github.com/Digital-Forensic-Study/Volatility3-Plugin-Development</li>
+    </ul><br>
+  <li><b>Volatility 기반 메모리 포렌식 GUI 분석 도구 개발 근데 AI를 곁들인 [TEAM: KGB 주니어 1]</b></li>
+    <ul>
+      <li>KSJ 14기 침해사고 분석 및 대응과정</li>
+      <li>2025. 05. 26 ~</li>
     </ul><br>
 </ul>
 
