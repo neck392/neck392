@@ -53,10 +53,9 @@ Blog : https://neck392.tistory.com/
         </ul>
       <li>https://github.com/Digital-Forensic-Study/Volatility3-Plugin-Development</li>
     </ul><br>
-  <li><b>Volatility 기반 메모리 포렌식 GUI 분석 도구 개발 근데 AI를 곁들인 [TEAM: KGB 주니어 1기]</b></li>
+  <li><b>메모리 포렌식 기반 Cobalt Strike 실행 흔적 분석 [TEAM: KGB 주니어 1기]</b></li>
     <ul>
       <li>KSJ 14기 침해사고 분석 및 대응과정</li>
-      <li>2025. 05. ~</li>
     </ul><br>
 </ul>
 
