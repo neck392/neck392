@@ -60,6 +60,5 @@ Blog : https://neck392.tistory.com/
 </ul>
 
 ## Awards
-제 14회 교내 IT 경진대회 동상 (2023)<br>
 KITRI WHS(Pre-BoB) 2기 우수 프로젝트 (2024)<br>
 Belkasoft "Windows Forensics with Belkasoft" 수료 (Certificate ID: tflsth8hxs, 2025)<br>
