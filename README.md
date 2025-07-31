@@ -32,7 +32,7 @@ Blog : https://neck392.tistory.com/
         </ul>
       <li>https://github.com/neck392/Secure_Coding</li>
     </ul><br>
-  <li><b>악성 코드 분석</b></li>
+  <li><b>MITRE ATT&CK 기반의 악의적 행위 연구</b></li>
     <ul>
       <li>MITRE ATT&CK에서 악의적 행위 분석 및 악성 코드 연구</li>
       <li>[T1547]: https://github.com/neck392/T1547_Malware</li>
