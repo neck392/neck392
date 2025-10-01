@@ -57,6 +57,10 @@ Blog : https://neck392.tistory.com/
     <ul>
       <li>KSJ 14기 침해사고 분석 및 대응과정</li>
     </ul><br>
+  <li><b>LLM / MCP 환경에서 기업 내 중요정보 유출 차단 솔루션 개발 [TEAM: 될것같은데]</b></li>
+    <ul>
+      <li>BoB 14기 디지털 포렌식 트랙</li>
+    </ul><br>
 </ul>
 
 ## Awards
