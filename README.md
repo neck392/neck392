@@ -21,6 +21,10 @@ Blog : https://neck392.tistory.com/
       <li>침해 사고 발생 컴퓨터에 대한 휘발성 / 비휘발성 데이터 수집 자동화 IR 스크립트</li>
       <li>https://github.com/Digital-Forensic-Study/LDDC_Batch_script</li>
     </ul><br>
+  <li><b>NTFS 파일 시스템 분석 및 파일 카빙에 관한 연구</b></li>
+    <ul>
+      <li>https://neck392.tistory.com/44</li>
+    </ul><br>
   <li><b>Secure_Coding [WHS]</b></li>
     <ul>
       <li>Dynamic Website coding using secure coding techniques</li>
