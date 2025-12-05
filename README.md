@@ -12,6 +12,10 @@ Blog : https://neck392.tistory.com/
     <ul>
       <li>Minseo Kim, Soohyun Jo, and Junbeom Kim, "A Study on the Decryption of KakaoTalk Database through Memory Forensics in Windows Environment," Proceedings of Korea Institute of Information Security & Cryptology Conference, Konjiam Resort, 2024. 11.</li>
     </ul>
+    <ul>
+      <li>Minseo Kim, Haeun Park, Kangho Lee, Sion Lee, WonHyeok Choi, and Gyeongjae Park, " Researchonan IntegratedSecurityFramework for Preventing Sensitive Information Leakage in Enterprise Environments Using
+ LLM and MCP," Proceedings of Korea Institute of Information Security & Cryptology Conference, Konjiam Resort, 2025. 11.</li>
+    </ul>
 </ul>
 
 ## Some Security-related Projects
@@ -68,5 +72,6 @@ Blog : https://neck392.tistory.com/
 </ul>
 
 ## Awards
-KITRI WHS(Pre-BoB) 2기 우수 프로젝트 (한국정보기술연구원장상, 2024)<br>
-Belkasoft "Windows Forensics with Belkasoft" 수료 (Certificate ID: tflsth8hxs, 2025)<br>
+KITRI WHS(Pre-BoB) 2기 우수 프로젝트상, 2024<br>
+Belkasoft "Windows Forensics with Belkasoft" 수료 (Certificate ID: tflsth8hxs), 2025 <br>
+제12회 소프트웨어(SW) 개발보안 경진대회(2025 CO-SHOW 컨퍼런스), 부산 BEXCO 제1전시장 2홀·3A홀, 최우수상, 2025 <br>
