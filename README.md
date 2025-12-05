@@ -13,7 +13,7 @@ Blog : https://neck392.tistory.com/
       <li>Minseo Kim, Soohyun Jo, and Junbeom Kim, "A Study on the Decryption of KakaoTalk Database through Memory Forensics in Windows Environment," Proceedings of Korea Institute of Information Security & Cryptology Conference, Konjiam Resort, 2024. 11.</li>
     </ul>
     <ul>
-      <li>Minseo Kim, Haeun Park, Kangho Lee, Sion Lee, WonHyeok Choi, and Gyeongjae Park, " Researchonan IntegratedSecurityFramework for Preventing Sensitive Information Leakage in Enterprise Environments Using
+      <li>Minseo Kim, Haeun Park, Kangho Lee, Sion Lee, Wonhyeok Choi, and Gyeongjae Park, " Researchonan IntegratedSecurityFramework for Preventing Sensitive Information Leakage in Enterprise Environments Using
  LLM and MCP," Proceedings of Korea Institute of Information Security & Cryptology Conference, Konjiam Resort, 2025. 11.</li>
     </ul>
 </ul>
