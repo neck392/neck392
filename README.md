@@ -73,4 +73,4 @@ Blog : https://neck392.tistory.com/
 ## Awards
 KITRI WHS(Pre-BoB) 2기 우수 프로젝트상, 2024<br>
 Belkasoft "Windows Forensics with Belkasoft" 수료 (Certificate ID: tflsth8hxs), 2025 <br>
-제12회 소프트웨어(SW) 개발보안 경진대회 ‘소개딩’(소프트웨어 개발보안 시큐어코딩), 2025 CO-SHOW 컨퍼런스, 부산 BEXCO 제1전시장 2홀·3A홀, 최우수상, 2025 <br>
+제12회 소프트웨어(SW) 개발보안 경진대회 ‘소개딩’, 2025 CO-SHOW 컨퍼런스, 부산 BEXCO 제1전시장 2홀·3A홀, 최우수상, 2025 <br>
