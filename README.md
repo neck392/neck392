@@ -47,6 +47,10 @@ Blog : https://neck392.tistory.com/
       <li>[T1059001]: https://github.com/neck392/T1059001_Malware</li>
       <li>Scenario Report: https://neck392.tistory.com/37</li>
     </ul><br>
+  <li><b>심캐시 구조 분석 및 연구(kernel32.dll 내부 함수 및 API 후킹 동작 연구)</b></li>
+    <ul>
+      <li>https://neck392.tistory.com/38</li>
+    </ul><br>
   <li><b>카카오톡 모바일 및 윈도우 아티팩트 비교 분석 [TEAM: 우체통 열어보기]</b></li>
     <ul>
       <li>WHS 2기</li>
