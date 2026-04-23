@@ -3,7 +3,8 @@
 
 항상 내 자신이 주체가 되어 공부하는 '학생' 김민서입니다.<br>
 정보보안에 관심이 있으며 보안의 여러 갈래 중에서 디지털 포렌식에 제일 관심이 많습니다.<br>
-Blog : https://neck392.tistory.com/
+Blog : https://neck392.tistory.com/<br>
+HuggingFace : https://huggingface.co/neck392
 <br><br>
 
 ## Publications
