@@ -73,6 +73,10 @@ HuggingFace : https://huggingface.co/neck392
     <ul>
       <li>BoB 14기 디지털 포렌식 트랙 </li>
     </ul><br>
+  <li><b>리눅스 커널 제로데이 취약점 연구</b></li>
+    <ul>
+      <li>https://github.com/neck392/linux-kernel-bug-reports</li>
+    </ul>
 </ul>
 
 ## Awards
